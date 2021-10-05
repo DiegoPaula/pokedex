@@ -7,7 +7,7 @@ Essa é minha versão do projeto clássico entre a comunidade do React.js, fique
   ![Pokédex](https://media4.giphy.com/media/ZTfKxKzXAxiU0er9I2/giphy.gif)
   ![Pokédex-contato](https://media0.giphy.com/media/GqEaKIlLGaOijVBwSU/giphy.gif)
 
-## Instalando do Projeto
+## Instalando o Projeto
 ### Pré-Requisitos
 
 ```shell
